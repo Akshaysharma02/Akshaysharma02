@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Akshaysharma
+- 👀 I’m interested in Python , HTML&CSS
+- 🌱 I’m currently learning JAVA
